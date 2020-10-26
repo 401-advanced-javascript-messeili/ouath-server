@@ -5,7 +5,7 @@ const express = require('express');
 const cors = require('cors');
 
 // Esoteric Resources
-const oauth = require('./github.js');
+const oauth = require('./linkedin.js');
 
 // Prepare the express app
 const app = express();
