@@ -10,7 +10,7 @@
 
 ### Overall Score and Comments
 
-#### Score (9 Out of 10)
+#### Score (Out of 10): 9
 
 #### General Comments
 
